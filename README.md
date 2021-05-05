@@ -1,2 +1,2 @@
 # isitpigeon
-Solving the world's greatest question, "is this bird a pigeon?"
+Solving the world's greatest conundrum, "is this bird a pigeon?"
